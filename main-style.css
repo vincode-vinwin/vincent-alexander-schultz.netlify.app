@@ -29,7 +29,8 @@ p {
 .note {
     display: inline-block;
     color: white;
-    border: solid black;
+    border: solid red;
+    font-weight: 700;
 }
 .background-image {
     position: absolute;
